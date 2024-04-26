@@ -1,5 +1,5 @@
 # localhost:
-## create localhost server in php
+### create localhost server in php
 ```console
 php -S localhost:8000 -t myphp
 ```

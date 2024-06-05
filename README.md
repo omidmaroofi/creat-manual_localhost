@@ -4,10 +4,10 @@
 ```console
 php -S localhost:8000 -t myphp
 ```
-or
-```console
+<!-- or -->
+
 php -S localhost:8000
-```
+
 ### discription
 ```console
 run manual localhost

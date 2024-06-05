@@ -5,9 +5,8 @@
 php -S localhost:8000 -t myphp
 or:
 php -S localhost:8000
-```
+
 ### discription
-```console
 run manual localhost
 1. create new folder on desktop and change that name to myphp
 2. open cmd

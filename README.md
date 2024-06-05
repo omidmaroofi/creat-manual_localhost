@@ -1,23 +1,22 @@
 # PHP localhost:
 
 ## create localhost server in php
-```console
+```js
 php -S localhost:8000 -t myphp
-<!-- or: -->
+//or:
 php -S localhost:8000
 
 ### discription
-<!-- run manual localhost
-1. create new folder on desktop and change that name to myphp
-2. open cmd
-3. write tis command:
-			php -S localhost:8000 -t myphp -->
---------------------------------------------------------
-for example:
-
-C:\Users\omid>E:
-E:\>cd Downloads\Desktop
-E:\Downloads\Desktop>php -S localhost:8000 -t myphp
+// run manual localhost
+// 1. create new folder on desktop and change that name to myphp
+// 2. open cmd
+// 3. write tis command:
+// 			php -S localhost:8000 -t myphp
+// --------------------------------------------------------
+// for example:
+// C:\Users\omid>E:
+// E:\>cd Downloads\Desktop
+// E:\Downloads\Desktop>php -S localhost:8000 -t myphp
 ```
 
 
